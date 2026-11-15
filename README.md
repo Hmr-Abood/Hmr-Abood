@@ -1,11 +1,8 @@
-<!--
-  GitHub Profile README
-  Username: Hmr-Abood
--->
+
 
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hmr-Abood Developer Banner"/>
+<img src="banner.jpg" width="100%" alt="Hmr-Abood Developer Banner"/>
 
 # Hmr-Abood
 
