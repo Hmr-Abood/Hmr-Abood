@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="Hmr-Abood Developer Banner"/>
+<img src="banner.png" width="100%" alt="Hmr-Abood Developer Banner"/>
 
 # Hmr-Abood
 
