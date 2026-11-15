@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hmr-Abood
 
-<!--
-**Hmr-Abood/Hmr-Abood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer · Tool Builder · Minecraft Developer
 
-Here are some ideas to get you started:
+I build software, game-related tools, and custom systems. I enjoy turning ideas into practical projects, experimenting with new technologies, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on Fortnite community tools, replay analysis, and custom Minecraft systems.
+
+---
+
+### Featured Projects
+
+**[Fortnite Chest Tracker](https://github.com/Hmr-Abood/tokenqol)**
+
+A Fortnite replay-based chest tracking project built to help players track their chest openings, monitor progress, simulate Pirate Shop rolls, and analyze milestones.
+
+**Minecraft Development**
+
+Custom Minecraft plugins and Skript systems, including gameplay mechanics, automated events, custom GUIs, economy systems, and multiplayer features.
+
+**Python Projects**
+
+Desktop utilities, automation tools, data processing, and gaming-related applications.
+
+---
+
+### Technologies & Tools
+
+**Languages**
+- Python
+- Java
+- Skript
+- HTML, CSS & JavaScript
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Paper / Spigot
+- SkBee
+- Discord.py
+
+---
+
+### Currently Exploring
+
+- Desktop application development
+- Game data analysis
+- Automation and tooling
+- Software architecture
+- New ways to improve gaming experiences
+
+---
+
+### Connect
+
+- GitHub: [@Hmr-Abood](https://github.com/Hmr-Abood)
+
+---
+
+*Building things, solving problems, and learning along the way.*
