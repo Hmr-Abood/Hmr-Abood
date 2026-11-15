@@ -38,7 +38,7 @@ Desktop utilities, automation tools, data processing, and gaming-related applica
 - Paper / Spigot
 - SkBee
 - Discord.py
-
+- BuiltbyBit
 ---
 
 ### Currently Exploring
