@@ -1,101 +1,80 @@
-
-
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Hmr-Abood Developer Banner"/>
+<img src="banner.png" width="100%" alt="Hmr-Abood — Developer" />
 
 # Hmr-Abood
 
-### Developer • Software Builder • Minecraft Developer
+**Developer · Minecraft Developer · Builder**
 
-Building tools, custom systems, and software inspired by ideas worth bringing to life.
+Building software, gaming tools, and custom systems — turning ideas into working projects.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hmr--Abood-181717?style=for-the-badge&logo=github)](https://github.com/Hmr-Abood)
-[![Repositories](https://img.shields.io/badge/Explore-Projects-238636?style=for-the-badge&logo=github)](https://github.com/Hmr-Abood?tab=repositories)
+[GitHub](https://github.com/Hmr-Abood) · [Explore Projects](https://github.com/Hmr-Abood?tab=repositories)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a developer interested in building practical software, gaming tools, and custom systems.
+I'm a developer who enjoys building practical tools and exploring different areas of software development. My projects range from browser-based applications and Python utilities to custom Minecraft systems and gaming-related tools.
 
-I enjoy taking an idea from concept to a working project, experimenting with different technologies, and finding creative solutions to technical problems.
-
-- Developing Fortnite-related tools and utilities.
-- Building custom Minecraft systems and gameplay mechanics.
-- Creating Python applications and automation tools.
-- Exploring software development and new technologies.
+- Building web applications and browser-based tools.
+- Developing Minecraft systems, Skript projects, GUIs, and gameplay mechanics.
+- Creating Python utilities, automation, and desktop applications.
+- Exploring game data, tooling, and software architecture.
 
 ## Featured Projects
 
-### Fortnite Chest Tracker
+### [MOTD Studio](https://github.com/Hmr-Abood/MOTD-Studio)
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github)](https://github.com/Hmr-Abood/tokenqol)
+A Minecraft server toolkit featuring a live MOTD editor, community template library, and Java server status tester.
 
-A replay-based Fortnite chest tracking tool designed to track chest openings, monitor progress, simulate Pirate Shop rolls, and help players understand their milestones.
+### [Fortnite Chest Tracker](https://github.com/Hmr-Abood/tokenqol)
+
+A replay-based Fortnite tool for tracking chest openings, monitoring progress, and simulating Pirate Shop rolls.
 
 ### Minecraft Development
 
-Custom Minecraft gameplay systems, Skript projects, interactive GUIs, automated events, and multiplayer mechanics.
-
-### Python Tools
-
-Desktop applications, utilities, data processing, automation, and gaming-related tools.
-
----
+Custom gameplay mechanics, interactive GUIs, automated events, and multiplayer systems.
 
 ## Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Skript](https://img.shields.io/badge/Skript-8A2BE2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0B0F14?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0B0F14?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0F14?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0B0F14?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0B0F14?style=flat-square&logo=css3&logoColor=1572B6)
+![Skript](https://img.shields.io/badge/Skript-0B0F14?style=flat-square&logo=code&logoColor=7AA2F7)
 
-**Tools & Technologies**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper_MC-FFFFFF?style=for-the-badge&logo=minecraft&logoColor=black)
+![Git](https://img.shields.io/badge/Git-0B0F14?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=flat-square&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0B0F14?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Supabase](https://img.shields.io/badge/Supabase-0B0F14?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Vercel](https://img.shields.io/badge/Vercel-0B0F14?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Paper](https://img.shields.io/badge/Paper_MC-0B0F14?style=flat-square&logo=minecraft&logoColor=FFFFFF)
 
----
-
-## GitHub Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hmr-Abood&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hmr-Abood&show_icons=true&theme=github_dark&hide_border=true&bg_color=0B0F14&title_color=7AA2F7&icon_color=7AA2F7" alt="GitHub stats" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmr-Abood&layout=compact&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmr-Abood&layout=compact&theme=github_dark&hide_border=true&bg_color=0B0F14&title_color=7AA2F7" alt="Top languages" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Hmr-Abood&theme=github-dark-blue&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=Hmr-Abood&theme=github-dark-blue&hide_border=true&background=0B0F14&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## Currently Exploring
-
-- Desktop application development
-- Game data analysis
-- Software architecture
-- Automation and tooling
-- New programming technologies
-
----
-
 <div align="center">
 
-### Thanks for visiting!
+**Thanks for visiting.**
 
-Feel free to explore my repositories and check out what I'm building.
-
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Hmr-Abood)
+Feel free to explore my projects and follow along with what I'm building.
 
 </div>
